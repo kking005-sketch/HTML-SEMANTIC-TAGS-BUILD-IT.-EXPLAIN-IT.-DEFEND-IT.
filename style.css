@@ -1,0 +1,86 @@
+#aiden-side {
+    width: 50%;
+    float: right;
+    margin-right: 0px;
+    background-color: #941010;
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+
+ #aiden-link {
+    color: #000200;
+    font-size: 24px;
+    margin-bottom: 10px;
+    background-color: #a30e0e;
+    margin: 0px;
+}
+
+ #trey-link {
+    color: #000000;
+    font-size: 24px;
+    margin-bottom: 10px;
+    background-color: #45c41e;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#trey-side {
+    width: 50%;
+    float: left;
+    margin-left: 0px;
+    background-color: #1cbe45;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #2a723c;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#dragapult {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    align-items: center;
+}
+
+#dragapult-caption {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+#umbreon {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    align-items: center;
+}
+
+#umbreon-caption {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 5px;
+}
+ 
+.trey-definitions {
+    text-align: center;
+    margin-top: 20px;
+        
+}
